@@ -41,7 +41,9 @@ The levels will scroll automatically, and each level will last 60-90 seconds.
 Keyboard Controls:
 
 W or ↑ : Jump
+
 A or ← : Move Left
+
 D or → : Move Right
 
 ### Teaching
