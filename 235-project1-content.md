@@ -23,8 +23,8 @@ This game will have a lighthearted mood for the first few areas, which will chan
 
 ## V. Aesthetics
 
-* Graphics: Pixel Art
-* Sound: 8-bit
+* Graphics: Simple Art, Possibly Pixel Art
+* Sound: Retro Soundfont, music and sound effects
 
 Sounds will come from a light background track, some sound effects based on player movement, 
 menu actions, and some sounds to indicate area changes.
